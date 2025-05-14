@@ -1,0 +1,93 @@
+[2025-05-14 16:46:31,190] INFO - ====== WebDriver manager ======
+[2025-05-14 16:46:31,792] INFO - Get LATEST chromedriver version for google-chrome
+[2025-05-14 16:46:32,134] INFO - Get LATEST chromedriver version for google-chrome
+[2025-05-14 16:46:32,458] INFO - Driver [C:\Users\rodri\.wdm\drivers\chromedriver\win64\136.0.7103.94\chromedriver-win32/THIRD_PARTY_NOTICES.chromedriver] found in cache
+[2025-05-14 16:46:32,458] INFO - Inicializando navegador.
+[2025-05-14 16:46:33,485] INFO - Lendo arquivo de input.
+[2025-05-14 16:46:33,485] INFO - Acessando site: https://www.bcb.gov.br/conversao
+[2025-05-14 16:46:35,059] INFO - Aguardando elemento: xpath - /html/body/app-root/bcb-cookies/div/div/div/div/button[2]
+[2025-05-14 16:46:35,127] INFO - Configurando BRL como moeda base.
+[2025-05-14 16:46:35,127] INFO - Aguardando elemento: xpath - /html/body/app-root/app-root/div/div/main/dynamic-comp/div/div[1]/bcb-detalhesconversor/div/div[1]/form/div[2]/div[1]/div/input
+[2025-05-14 16:46:35,202] INFO - Aguardando elemento: xpath - //*[@id="button-converter-de"]
+[2025-05-14 16:46:35,253] INFO - Aguardando elemento: xpath - //*[@id="moedaBRL"]
+[2025-05-14 16:46:35,268] INFO - Consultando cotação para: USD
+[2025-05-14 16:46:35,268] INFO - Aguardando elemento: xpath - //*[@id="button-converter-para"]
+[2025-05-14 16:46:35,318] INFO - Aguardando elemento: xpath - //*[@id="moedaResultado1"]
+[2025-05-14 16:46:35,330] INFO - Consultando cotação para: EUR
+[2025-05-14 16:46:35,330] INFO - Aguardando elemento: xpath - //*[@id="button-converter-para"]
+[2025-05-14 16:46:35,378] INFO - Aguardando elemento: xpath - //*[@id="moedaResultado1"]
+[2025-05-14 16:46:35,389] INFO - Consultando cotação para: GBP
+[2025-05-14 16:46:35,390] INFO - Aguardando elemento: xpath - //*[@id="button-converter-para"]
+[2025-05-14 16:46:35,454] INFO - Aguardando elemento: xpath - //*[@id="moedaResultado1"]
+[2025-05-14 16:46:35,906] INFO - Aguardando elemento: id - button-converter-para
+[2025-05-14 16:46:37,954] INFO - Aguardando elemento: class_name - card-body
+[2025-05-14 16:46:37,967] INFO - Consultando cotação para: JPY
+[2025-05-14 16:46:37,968] INFO - Aguardando elemento: xpath - //*[@id="button-converter-para"]
+[2025-05-14 16:46:38,016] INFO - Aguardando elemento: xpath - //*[@id="moedaResultado1"]
+[2025-05-14 16:46:38,709] INFO - Consultando cotação para: BRL
+[2025-05-14 16:46:38,709] INFO - Aguardando elemento: xpath - //*[@id="button-converter-para"]
+[2025-05-14 16:46:38,753] INFO - Aguardando elemento: xpath - //*[@id="moedaResultado1"]
+[2025-05-14 16:46:39,380] INFO - Aguardando elemento: id - button-converter-para
+[2025-05-14 16:46:41,423] INFO - Aguardando elemento: class_name - card-body
+[2025-05-14 16:46:41,437] INFO - Consultando cotação para: AUD
+[2025-05-14 16:46:41,437] INFO - Aguardando elemento: xpath - //*[@id="button-converter-para"]
+[2025-05-14 16:46:41,487] INFO - Aguardando elemento: xpath - //*[@id="moedaResultado1"]
+[2025-05-14 16:46:42,170] INFO - Consultando cotação para: CAD
+[2025-05-14 16:46:42,170] INFO - Aguardando elemento: xpath - //*[@id="button-converter-para"]
+[2025-05-14 16:46:42,213] INFO - Aguardando elemento: xpath - //*[@id="moedaResultado1"]
+[2025-05-14 16:46:42,422] INFO - Aguardando elemento: id - button-converter-para
+[2025-05-14 16:46:44,465] INFO - Aguardando elemento: class_name - card-body
+[2025-05-14 16:46:44,476] INFO - Consultando cotação para: CHF
+[2025-05-14 16:46:44,476] INFO - Aguardando elemento: xpath - //*[@id="button-converter-para"]
+[2025-05-14 16:46:44,522] INFO - Aguardando elemento: xpath - //*[@id="moedaResultado1"]
+[2025-05-14 16:46:45,215] INFO - Consultando cotação para: CNY
+[2025-05-14 16:46:45,215] INFO - Aguardando elemento: xpath - //*[@id="button-converter-para"]
+[2025-05-14 16:46:45,259] INFO - Aguardando elemento: xpath - //*[@id="moedaResultado1"]
+[2025-05-14 16:46:45,885] INFO - Aguardando elemento: id - button-converter-para
+[2025-05-14 16:46:47,930] INFO - Aguardando elemento: class_name - card-body
+[2025-05-14 16:46:47,941] INFO - Consultando cotação para: SEK
+[2025-05-14 16:46:47,942] INFO - Aguardando elemento: xpath - //*[@id="button-converter-para"]
+[2025-05-14 16:46:47,987] INFO - Aguardando elemento: xpath - //*[@id="moedaResultado1"]
+[2025-05-14 16:46:48,683] INFO - Consultando cotação para: NZD
+[2025-05-14 16:46:48,683] INFO - Aguardando elemento: xpath - //*[@id="button-converter-para"]
+[2025-05-14 16:46:48,726] INFO - Aguardando elemento: xpath - //*[@id="moedaResultado1"]
+[2025-05-14 16:46:48,985] INFO - Aguardando elemento: id - button-converter-para
+[2025-05-14 16:46:51,029] INFO - Aguardando elemento: class_name - card-body
+[2025-05-14 16:46:51,040] INFO - Consultando cotação para: MXN
+[2025-05-14 16:46:51,040] INFO - Aguardando elemento: xpath - //*[@id="button-converter-para"]
+[2025-05-14 16:46:51,086] INFO - Aguardando elemento: xpath - //*[@id="moedaResultado1"]
+[2025-05-14 16:46:51,764] INFO - Consultando cotação para: INR
+[2025-05-14 16:46:51,764] INFO - Aguardando elemento: xpath - //*[@id="button-converter-para"]
+[2025-05-14 16:46:51,807] INFO - Aguardando elemento: xpath - //*[@id="moedaResultado1"]
+[2025-05-14 16:46:52,481] INFO - Aguardando elemento: id - button-converter-para
+[2025-05-14 16:46:54,527] INFO - Aguardando elemento: class_name - card-body
+[2025-05-14 16:46:54,538] INFO - Consultando cotação para: RUB
+[2025-05-14 16:46:54,538] INFO - Aguardando elemento: xpath - //*[@id="button-converter-para"]
+[2025-05-14 16:46:54,582] INFO - Aguardando elemento: xpath - //*[@id="moedaResultado1"]
+[2025-05-14 16:46:55,264] INFO - Consultando cotação para: ZAR
+[2025-05-14 16:46:55,264] INFO - Aguardando elemento: xpath - //*[@id="button-converter-para"]
+[2025-05-14 16:46:55,307] INFO - Aguardando elemento: xpath - //*[@id="moedaResultado1"]
+[2025-05-14 16:46:55,908] INFO - Aguardando elemento: id - button-converter-para
+[2025-05-14 16:46:57,950] INFO - Aguardando elemento: class_name - card-body
+[2025-05-14 16:46:57,961] INFO - Consultando cotação para: HKD
+[2025-05-14 16:46:57,961] INFO - Aguardando elemento: xpath - //*[@id="button-converter-para"]
+[2025-05-14 16:46:58,005] INFO - Aguardando elemento: xpath - //*[@id="moedaResultado1"]
+[2025-05-14 16:46:58,682] INFO - Consultando cotação para: SGD
+[2025-05-14 16:46:58,682] INFO - Aguardando elemento: xpath - //*[@id="button-converter-para"]
+[2025-05-14 16:46:58,725] INFO - Aguardando elemento: xpath - //*[@id="moedaResultado1"]
+[2025-05-14 16:46:58,943] INFO - Aguardando elemento: id - button-converter-para
+[2025-05-14 16:47:00,984] INFO - Aguardando elemento: class_name - card-body
+[2025-05-14 16:47:00,995] INFO - Consultando cotação para: KRW
+[2025-05-14 16:47:00,995] INFO - Aguardando elemento: xpath - //*[@id="button-converter-para"]
+[2025-05-14 16:47:01,040] INFO - Aguardando elemento: xpath - //*[@id="moedaResultado1"]
+[2025-05-14 16:47:01,729] INFO - Consultando cotação para: NOK
+[2025-05-14 16:47:01,729] INFO - Aguardando elemento: xpath - //*[@id="button-converter-para"]
+[2025-05-14 16:47:01,773] INFO - Aguardando elemento: xpath - //*[@id="moedaResultado1"]
+[2025-05-14 16:47:01,890] INFO - Aguardando elemento: id - button-converter-para
+[2025-05-14 16:47:03,937] INFO - Aguardando elemento: class_name - card-body
+[2025-05-14 16:47:03,948] INFO - Consultando cotação para: TRY
+[2025-05-14 16:47:03,948] INFO - Aguardando elemento: xpath - //*[@id="button-converter-para"]
+[2025-05-14 16:47:03,994] INFO - Aguardando elemento: xpath - //*[@id="moedaResultado1"]
+[2025-05-14 16:47:04,873] INFO - Arquivo 'cotacoes.xlsx' salvo.
+[2025-05-14 16:47:04,891] INFO - Arquivo 'resultado_processamento.xlsx' salvo.
+[2025-05-14 16:47:04,891] INFO - Execução finalizada.
